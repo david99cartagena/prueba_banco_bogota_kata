@@ -12,7 +12,7 @@ Demostrar el flujo de un proceso **ETL** que extrae datos de una base de datos *
 ## 🖼️ Imagenes de la Aplicacion
 
 - **Estructura bases de datos**
-  ![base-de-datos](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_3.png)
+  ![base-de-datos](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_3.1.png)
 
 - **Proceso de ETL**
   ![proceso-etl](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_4.png)
@@ -158,7 +158,7 @@ Demostrar el flujo de un proceso **ETL** que extrae datos de una base de datos *
 
    ![base-de-datos](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_2.png)
 
-   ![base-de-datos](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_3.png)
+   ![base-de-datos](https://raw.githubusercontent.com/david99cartagena/prueba_banco_bogota_kata/refs/heads/main/media/Screenshot_3.1.png)
 
 5. **Proceso de ETL**
 
