@@ -1,0 +1,50 @@
+# ==============================
+#   SECRETS / ENV FILES
+# ==============================
+.env
+*.env
+*.env.local
+
+# ==============================
+#   PYTHON
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+.venv/
+venv/
+.env/
+
+# Archivos de configuración temporales
+*.egg-info/
+.eggs/
+
+# ==============================
+#   JAVA / MAVEN
+# ==============================
+target/
+*.class
+*.log
+
+# BlueJ files
+*.ctxt
+
+# JAR / WAR / EAR packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# ==============================
+#   OS FILES
+# ==============================
+.DS_Store
+Thumbs.db
