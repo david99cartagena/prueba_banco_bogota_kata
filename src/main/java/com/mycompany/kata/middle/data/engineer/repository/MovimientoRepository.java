@@ -18,7 +18,7 @@ public class MovimientoRepository {
         List<Movimiento> lista = new ArrayList<>();
 
         try (Connection conn = Database.getConnection(); 
-                PreparedStatement stmt = conn.prepareStatement("SELECT * FROM movimientos_clientes");
+                PreparedStatement stmt = conn.prepareStatement("SELECT * FROM movimientos_clientes ORDER BY id_transaccion DESC");
                 ResultSet rs = stmt.executeQuery()) {
 
             while (rs.next()) {

@@ -16,7 +16,7 @@ ENV_FILE="../.env"
 if [ -f "$ENV_FILE" ]; then
     export $(grep -v '^#' "$ENV_FILE" | xargs)
 else
-    echo "❌ No se encontró el archivo .env"
+    echo "No se encontró el archivo .env"
     exit 1
 fi
 
